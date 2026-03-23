@@ -1,0 +1,20 @@
+{
+  "display_name": "Contentrain Astro Blog",
+  "repository_name": "contentrain-starter-astro-blog",
+  "repository_description": "Premium Astro editorial starter powered by Contentrain SDK and seeded structured content.",
+  "repository_topics": ["contentrain", "astro", "starter", "blog", "editorial", "typescript"],
+  "visibility": "public",
+  "template_repository": true,
+  "framework": "astro",
+  "node_version": "22",
+  "package_manager": "pnpm@10.17.0",
+  "install_command": "pnpm install",
+  "check_command": "pnpm check",
+  "build_command": "pnpm build",
+  "preview_command": "pnpm preview",
+  "deploy_targets": [
+    { "provider": "vercel", "output": "dist", "command": "pnpm deploy:vercel" },
+    { "provider": "netlify", "output": "dist", "command": "pnpm deploy:netlify" },
+    { "provider": "cloudflare-pages", "output": "dist", "command": "pnpm deploy:cloudflare" }
+  ]
+}

@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
+    "@types/node": "^24.4.0",
     "contentrain": "^0.2.3",
     "typescript": "^5.9.2"
   },

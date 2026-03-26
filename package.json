@@ -18,13 +18,13 @@
     "deploy:cloudflare": "pnpm build"
   },
   "dependencies": {
-    "@contentrain/query": "^5.0.2",
+    "@contentrain/query": "^5.1.0",
     "astro": "^6.0.8"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "@types/node": "^24.4.0",
-    "contentrain": "^0.2.3",
+    "contentrain": "^0.3.1",
     "typescript": "^5.9.2"
   },
   "imports": {

@@ -6,6 +6,7 @@ cover_image: "https://images.unsplash.com/photo-1743385779312-73ea241025d8?auto=
 excerpt: How rhythm, restraint, and content hierarchy make software feel more trustworthy.
 published_at: 2026-03-12
 reading_time: 7
+slug: designing-calm-interfaces
 title: Designing Calm Interfaces For Product Teams
 ---
 

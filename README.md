@@ -4,6 +4,10 @@
 
 Editorial starter for founder letters, product journals, and thoughtful publishing sites.
 
+![Contentrain Astro Blog cover](./media/cover.png)
+
+![Contentrain Astro Blog preview](./media/preview.gif)
+
 ## Contentrain Ecosystem
 
 - SDK and CLI: [ai.contentrain.io/packages/sdk.html](https://ai.contentrain.io/packages/sdk.html)

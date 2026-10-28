@@ -10,7 +10,8 @@ Editorial starter for founder letters, product journals, and thoughtful publishi
 
 ## Contentrain Ecosystem
 
-- SDK and CLI: [ai.contentrain.io/packages/sdk.html](https://ai.contentrain.io/packages/sdk.html)
+- SDK and CLI: [ai.contentrain.io/packages/sdk](https://ai.contentrain.io/packages/sdk)
+- Astro guide: [ai.contentrain.io/guides/frameworks#astro](https://ai.contentrain.io/guides/frameworks#astro)
 - Product guides: [docs.contentrain.io](https://docs.contentrain.io/)
 - Editorial and content operations UI: [studio.contentrain.io](https://studio.contentrain.io)
 
@@ -42,6 +43,8 @@ pnpm dev
 - Runtime content queries use the generated `#contentrain` SDK
 - Blog pages, navigation, footer, SEO, authors, and categories are content-driven
 - The starter follows a git-backed Contentrain architecture so content, schemas, and generated SDK output stay versioned together
+- After editing `.contentrain/`, run `pnpm contentrain:generate` to refresh the client
+- Prefer Astro content collections? `@contentrain/query/astro` provides `contentrainLoader()`; see the Astro guide
 
 ## Deploy
 

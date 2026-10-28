@@ -21,7 +21,7 @@ export function getStaticPaths() {
 }
 
 const { post } = Astro.props as { post: BlogPostWithRelations };
-const paragraphs = String(post.content ?? "")
+const paragraphs = String(post.body ?? "")
   .split(/\n\s*\n/g)
   .filter(Boolean);
 const publishedAt = new Intl.DateTimeFormat("en", {

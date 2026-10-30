@@ -13,6 +13,7 @@
     "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
     "check": "ASTRO_TELEMETRY_DISABLED=1 astro check",
     "contentrain:generate": "contentrain generate",
+    "contentrain:validate": "contentrain validate",
     "deploy:netlify": "pnpm build"
   },
   "dependencies": {
@@ -22,7 +23,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "@types/node": "^24.4.0",
-    "contentrain": "^0.18.18",
+    "contentrain": "^0.18.19",
     "typescript": "^5.9.2"
   },
   "imports": {

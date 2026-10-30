@@ -20,5 +20,6 @@
   },
   "i18n": true,
   "id": "author",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "name"
 }

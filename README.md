@@ -1,7 +1,5 @@
 <p align="center"><img src=".github/cover.png" alt="Contentrain Astro blog starter — content in Git" width="100%"></p>
 
-> Source of truth: this starter is exported from the `contentrain-starters` monorepo.
-> Internal starter id: `astro-blog`.
 # Contentrain Astro Blog
 
 Editorial starter for founder letters, product journals, and thoughtful publishing sites.

@@ -37,13 +37,13 @@ export interface BlogPost {
 export interface Footer {
   blurb?: string
   columns?: { links?: { href: string; label: string }[]; title: string }[]
-  legal_notice?: string
+  legal_notice: string
 }
 
 export interface Navigation {
   announcement_label?: string
   cta_href?: string
-  cta_label?: string
+  cta_label: string
   items?: { emphasis?: boolean; href: string; label: string }[]
 }
 

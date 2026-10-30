@@ -35,5 +35,6 @@
   },
   "i18n": true,
   "id": "blog-post",
-  "kind": "document"
+  "kind": "document",
+  "title_field": "title"
 }

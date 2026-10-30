@@ -16,5 +16,6 @@
   },
   "i18n": true,
   "id": "blog-category",
-  "kind": "collection"
+  "kind": "collection",
+  "title_field": "name"
 }

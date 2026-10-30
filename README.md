@@ -32,6 +32,7 @@ pnpm dev
 - `pnpm preview`
 - `pnpm deploy:netlify`
 - `pnpm contentrain:generate`
+- `pnpm contentrain:validate`
 
 ## Demo routes
 

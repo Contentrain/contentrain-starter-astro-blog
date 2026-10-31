@@ -16,6 +16,7 @@ Contentrain is a content governance ecosystem for teams and AI agents: content l
 - Astro guide: [ai.contentrain.io/guides/frameworks#astro](https://ai.contentrain.io/guides/frameworks#astro)
 - Product guides: [docs.contentrain.io](https://docs.contentrain.io/)
 - Editorial and content operations UI: [studio.contentrain.io](https://studio.contentrain.io)
+- Edit with an AI agent: [@contentrain/mcp](https://ai.contentrain.io/packages/mcp) locally, or [Studio MCP Cloud](https://docs.contentrain.io/developer/mcp-cloud) for teams
 
 ## Quick Start
 
